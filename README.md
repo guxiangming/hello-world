@@ -1,4 +1,5 @@
-# swoole web-socket 通讯框架
+# swoole web-socket 通讯框架 
+  学习入门的框架 参考了swoole-framework
 
 * 替换php-fpm 
 * 以swoole 优化php性能
